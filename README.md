@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, TensorFlow and AWS Tools**
 
-- 👯 I’m looking to collaborate on [Sci-Kit Learn](https://github.com/scikit-learn/scikit-learn)
+- 👯 I’m currently contributing to [Sci-Kit Learn](https://github.com/scikit-learn/scikit-learn)
 
 - 🤝 I’m looking for help with [Hugging Face Evaluate](https://github.com/huggingface/evaluate)
 
