@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpangas&label=Profile%20views&color=0e75b6&style=flat" alt="jpangas" /> </p>
 
 
-- 👯 I’m currently working on [BugBug](https://github.com/mozilla/bugbug)
+- 👯 I’m currently working on [BugBug](https://github.com/mozilla/bugbug) and [BugBot](https://github.com/mozilla/bugbot)
 
 - 🤝 Invite me to contibute to any projects using **Python, TensorFlow, Sagemaker or Machine Learning.**
 
