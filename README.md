@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpangas&label=Profile%20views&color=0e75b6&style=flat" alt="jpangas" /> </p>
 
 
-- 👯 I’m currently working on [BugBug](https://github.com/mozilla/bugbug) and [BugBot](https://github.com/mozilla/bugbot)
+-  👨‍💻 I’m currently working on applied AI research in NLP, focusing on the use of LLMs in Software Engineering.
 
-- 🤝 Invite me to contibute to any projects using **Python, TensorFlow, Sagemaker or Machine Learning.**
+- 🤝 Invite me to contribute to any projects involving **Python, NLP, Machine Learning, LLMs, or AI for Software Engineering**
 
-- 💬 Ask me about **Machine Learning, DevOps, Python and TensorFlow**
+- 💬 Ask me about **LLMs, NLP, Machine Learning, and AI in software engineering**
 
 - 📄 Know about my experiences [on LinkedIn](https://www.linkedin.com/in/johnpangas/)
 
